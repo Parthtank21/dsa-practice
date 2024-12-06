@@ -1,3 +1,5 @@
+// Problem: Count Digits
+
 let num = 7789;
 
 // Using recursion - Slower
